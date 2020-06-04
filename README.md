@@ -5,7 +5,7 @@ Welcome to my Cloud Network Security 2-day course!
 <details><summary>Who is this course intended for?</summary><p>
 
 - People in tech using AWS who want to understand more about how apps are architected at the network level
-- Security specialists who would like to increase their exposore to security in the cloud
+- Security specialists who would like to increase their exposure to security in the cloud
 - Anyone planning to sit an associate level AWS exam who'd like an indepth understanding of VPCs, subnets, route tables etc
 - Aspiring cloud architects who are looking for a basic introduction to cloud networking
 - People keen to get their hands dirty in the AWS console, via cloudformation and the AWS CLI (this is a practical course)
